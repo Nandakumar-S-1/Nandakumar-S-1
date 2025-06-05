@@ -5,7 +5,7 @@ type Profile = {
   skills: string[];
   certifications: string[];
   interests: string[];
-};
+  };
 
 const profile: Profile = {
   name: "Wiz Kid",
@@ -22,9 +22,10 @@ const profile: Profile = {
     "CSS",
     "Bootstrap",
     "EJS"
-  ],
+    ],
+  
   certifications: [
-    "Diploma in Software Engineering - Govt. Polytechnic College Cherthala"
+  "Diploma in Software Engineering - Govt. Polytechnic College Cherthala"
   ],
   interests: [
     "Building full-stack web apps",
