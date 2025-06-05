@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wiz Kid</h1>
+<h1 align="center">Hi 👋, I'm Nandakumar S</h1>
 <h3 align="center">MERN Stack Developer & DSA Enthusiast</h3>
 
 <p align="center">
@@ -12,15 +12,15 @@ const profile = {
   location: "Kerala, India",
   skills: [
     "JavaScript", "TypeScript", "Node.js", "Express.js", 
-    "MongoDB", "PostgreSQL", "HTML", "CSS", "Bootstrap", "EJS"
+    "MongoDB", "PostgreSQL", "HTML", "CSS", "Bootstrap", "DSA"
   ],
   certifications: [
     "Diploma in Software Engineering - Govt. Polytechnic College Cherthala"
   ],
   interests: [
     "Building full-stack web apps",
-    "Creating clone projects for hands-on learning",
-    "Mastering DSA (LL, Tree, BST, Graph, Trie)",
+    "Learning New Technologies"
+    "Trying to Mastering DSA (LL, Tree, BST, Graph, Trie)",
     "Currently exploring React"
   ]
 };
