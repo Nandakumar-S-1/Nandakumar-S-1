@@ -7,7 +7,7 @@
 
 ```ts
 const profile = {
-  name: "Wiz Kid",
+  name: "Nandakumar S",
   title: "MERN Stack Developer & DSA Enthusiast",
   location: "Kerala, India",
   skills: [
