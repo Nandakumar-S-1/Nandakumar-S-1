@@ -24,9 +24,9 @@
 
 ## 🌟 Featured Projects  
 
-- 🚀 [ToDo App](https://your-demo-link.com) | 💻 [Source Code](https://github.com/your-repo)  
-- 🎯 [E-Commerce Store](https://your-demo-link.com) | 💻 [Source Code](https://github.com/your-repo)  
-- 📊 [DSA Visualizer](https://your-demo-link.com) | 💻 [Source Code](https://github.com/your-repo)  
+- 🎯 [E-Commerce Store] | (https://cybercrate.store/) | 💻 [Source Code](https://github.com/Nandakumar-S-1/CyberCrate) 
+- 🚀 [OLX-Clone] | 💻 [Source Code](https://github.com/Nandakumar-S-1/OLX-Clone-React)   
+- 📊 [Netflix Clone] | 💻 [Source Code](https://github.com/Nandakumar-S-1/Netflix-Clone-React)  
 
 ---
 
@@ -42,7 +42,7 @@
 
 - 🔭 Building MERN Stack projects  
 - 🌱 Learning **Advanced React & DSA**  
-- 💡 Exploring **System Design & Performance Optimizations**  
+- 💡 Exploring **DevOps**  
 
 ---
 
