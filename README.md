@@ -1,36 +1,57 @@
-<h1 align="center">Hi 👋, I'm Nandakumar S</h1>
-<h3 align="center">MERN Stack Developer & DSA Enthusiast</h3>
+# Hi 👋, I'm Nandakumar S  
+### 🚀 MERN Stack Developer | 📚 DSA Enthusiast  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nandakumar-s-1&label=Profile%20views&color=0e75b6&style=flat" alt="nandakumar-s-1" />
-</p>
+💡 Passionate about building full-stack web apps & solving challenging problems.  
+🌱 Currently exploring **React & Advanced DSA**  
+💬 Ask me about **JavaScript, React, Node.js, MongoDB**  
+📍 From Kerala, India  
 
-```ts
-const profile = {
-  name: "Nandakumar S",
-  title: "MERN Stack Developer & DSA Enthusiast",
-  location: "Kerala, India",
-  skills: [
-    "JavaScript", "TypeScript", "Node.js", "Express.js", 
-    "MongoDB", "PostgreSQL", "HTML", "CSS", "Bootstrap", "DSA"
-  ],
-  certifications: [
-    "Diploma in Software Engineering - Govt. Polytechnic College Cherthala"
-  ],
-  interests: [
-    "Building full-stack web apps",
-    "Learning New Technologies"
-    "Trying to Mastering DSA (LL, Tree, BST, Graph, Trie)",
-    "Currently exploring React"
-  ]
-};
+---
 
-function introduce(profile: typeof profile) {
-  console.log(`👋 Hi, I'm ${profile.name}! 💻 I'm passionate ${profile.title} from ${profile.location}.`);
-  console.log("🛠 Skills:");
-  console.log("  - " + profile.skills.join("\n  - "));
-  console.log("📜 Certifications:");
-  console.log("  - " + profile.certifications.join("\n  - "));
-  console.log("🚀 Interests:");
-  console.log("  - " + profile.interests.join("\n  - "));
-}
+## 🛠 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+## 🌟 Featured Projects  
+
+- 🚀 [ToDo App](https://your-demo-link.com) | 💻 [Source Code](https://github.com/your-repo)  
+- 🎯 [E-Commerce Store](https://your-demo-link.com) | 💻 [Source Code](https://github.com/your-repo)  
+- 📊 [DSA Visualizer](https://your-demo-link.com) | 💻 [Source Code](https://github.com/your-repo)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Nandakumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandakumar-S-1&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandakumar-S-1&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nandakumar-S-1&theme=radical)  
+
+---
+
+## 🎯 Currently Learning  
+
+- 🔭 Building MERN Stack projects  
+- 🌱 Learning **Advanced React & DSA**  
+- 💡 Exploring **System Design & Performance Optimizations**  
+
+---
+
+## 📬 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandakumar-s-a0b3ba326)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/NandaKumar_S/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandakumars5352@gmail.com)  
+
+---
+
+⭐️ *“Code is like poetry; clean, efficient, and expressive.”*  
