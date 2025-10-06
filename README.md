@@ -1,8 +1,8 @@
-<!-- Animated Dark Theme GitHub Profile by ChatGPT (Nandakumar Edition) -->
+<!-- ✨ Updated Animated GitHub Profile - Nandakumar S -->
 
 <h1 align="center">
   <a href="https://github.com/Nandakumar-S-1" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=500&lines=Hi+There!+👋;I'm+Nandakumar+S!;Full-Stack+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Nandakumar+S!;Full-Stack+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -13,10 +13,10 @@
 ---
 
 ### 🧠 About Me  
-🚀 I'm a developer who loves building powerful full-stack web apps.  
-💡 Constantly exploring new technologies & optimization techniques.  
-🎧 Music and code go hand-in-hand for me.  
-💬 Ask me about **React, Node.js, TypeScript, or MongoDB**.
+🚀 I love creating scalable full-stack web applications using the **MERN Stack**.  
+💡 Constantly exploring **React, Node.js, and system design patterns**.  
+🎧 I enjoy music while coding — it keeps the creativity flowing.  
+💬 Ask me about **JavaScript, React, Node.js, and MongoDB**.
 
 ---
 
@@ -39,16 +39,7 @@
   </a>
 </p>
 
----
 
-### 🎧 Spotify Now Playing  
-<p align="center">
-  <a href="https://open.spotify.com/user/31uhrda4sqc7wv6kyh3jie5a2uma?si=7bc30d30d07e4096" target="_blank">
-    <img src="https://novatorem-nandakumar.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
-  </a>
-</p>
-
----
 
 ### ⚡ GitHub Stats  
 <p align="center">
@@ -72,16 +63,11 @@
 
 ---
 
-### 🌈 Animated Glow Divider
+### 🌈 Animated Contribution Snake  
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Nandakumar-S-1/Nandakumar-S-1/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
 <h3 align="center">✨ “Eat. Sleep. Code. Repeat.” ✨</h3>
-
-<style>
-  body { background-color: #0D1117; color: #C9D1D9; }
-  a:hover { text-shadow: 0 0 10px #00FFFF; }
-</style>
