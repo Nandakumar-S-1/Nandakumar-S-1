@@ -25,8 +25,6 @@
 ---
 
 
-
-
 ### 🖤 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/nandakumar-s-a0b3ba326/" target="_blank">
@@ -40,9 +38,6 @@
   </a>
   <a href="https://leetcode.com/u/NandaKumar__S/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=LeetCode&logoColor=white"/>
-  </a>
-  <a href="https://open.spotify.com/user/31uhrda4sqc7wv6kyh3jie5a2uma?si=7bc30d30d07e4096" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </p>
 
@@ -65,7 +60,7 @@
 
 ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,express,mongodb,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,nextjs,typescript,redux,express,mongodb,postgresql,mysql,tailwind,bootstrap,html,css,aws,nginx,firebase,git,github,vscode,postman,figma,bash,linux" />
 </p>
 
 
