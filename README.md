@@ -56,7 +56,6 @@
 ![Auto](https://img.shields.io/badge/Auto-blue?style=for-the-badge&logo=bmw)
 ![Tech](https://img.shields.io/badge/Tech-00ff00?style=for-the-badge&logo=snapdragon)
 ![Drawing](https://img.shields.io/badge/Drawing-ffa500?style=for-the-badge&logo=starbucks)
-![Wildlife](https://img.shields.io/badge/Wildlife-228b22?style=for-the-badge&logo=pug)
 ![Photography](https://img.shields.io/badge/Photography-ff6347?style=for-the-badge&logo=instagram)
 ![Traveling](https://img.shields.io/badge/Traveling-1e90ff?style=for-the-badge&logo=airbnb)
 ![Reading](https://img.shields.io/badge/Reading-maroon?style=for-the-badge&logo=R)
