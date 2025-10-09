@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://github.com/Nandakumar-S-1" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Nandakumar+S!;FullStack+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Nandakumar+S!;MERN-Stack+Developer+%26+DSA+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
 
