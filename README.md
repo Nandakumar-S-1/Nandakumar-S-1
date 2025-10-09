@@ -51,20 +51,32 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandakumar-S-1&bg_color=0d1117&color=00bfff&line=ff0099&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
+### Interests
+![Gaming](https://img.shields.io/badge/Gaming-ff69b4?style=for-the-badge&logo=steam)
+![Auto](https://img.shields.io/badge/Auto-blue?style=for-the-badge&logo=bmw)
+![Tech](https://img.shields.io/badge/Tech-00ff00?style=for-the-badge&logo=snapdragon)
+![Drawing](https://img.shields.io/badge/Drawing-ffa500?style=for-the-badge&logo=starbucks)
+![Wildlife](https://img.shields.io/badge/Wildlife-228b22?style=for-the-badge&logo=pug)
+![Photography](https://img.shields.io/badge/Photography-ff6347?style=for-the-badge&logo=instagram)
+![Traveling](https://img.shields.io/badge/Traveling-1e90ff?style=for-the-badge&logo=airbnb)
+![Reading](https://img.shields.io/badge/Reading-maroon?style=for-the-badge&logo=R)
+![Music](https://img.shields.io/badge/Music-green?style=for-the-badge&logo=spotify)
+
+
 
 ### 🖤 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/nandakumar-s-a0b3ba326/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/_nandakumar__/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:nandakumars5352@gmail.com" target="_blank">
+    <a href="mailto:nandakumars5352@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://x.com/Nandu22490664" target="_blank">
+    <a href="https://x.com/Nandu22490664" target="_blank">
     <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_nandakumar__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/NandaKumar__S/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=LeetCode&logoColor=white"/>
