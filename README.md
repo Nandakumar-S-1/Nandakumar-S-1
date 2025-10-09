@@ -25,8 +25,8 @@
 ---
 ### 🛠️ Tech Stack  
 <p align="center" style="display: grid; grid-template-columns: repeat(12, auto); gap: 8px; justify-content: center;">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,next,ts,redux,express,mongodb,postgres,mysql,tailwind,bootstrap" />
-  <img src="https://skillicons.dev/icons?i=html,css,aws,nginx,firebase,git,github,vscode,figma,postman,supabase,linux,npm" />
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,ts,next,redux,express,mongodb,postgres,mysql,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,aws,nginx,firebase,git,github,vscode,figma,postman,supabase,linux,windows,npm" />
 </p>
 
 
