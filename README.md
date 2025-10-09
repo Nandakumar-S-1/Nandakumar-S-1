@@ -36,6 +36,9 @@
   <a href="mailto:nandakumars5352@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+    <a href="https://x.com/Nandu22490664" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter)" width="40"/>
+  </a>
   <a href="https://leetcode.com/u/NandaKumar__S/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=LeetCode&logoColor=white"/>
   </a>
