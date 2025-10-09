@@ -2,13 +2,17 @@
 
 <h1 align="center">
   <a href="https://github.com/Nandakumar-S-1" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Nandakumar+S!;MERN-Stack+Developer+%26+DSA+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+There+👋;I'm+Nandakumar+S;MERN-Stack+Dev+%26+DSA+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
 
 ---
 
-<h3 align="center">🌌 Passionate about MERN Stack | Clean UI | Scalable Logic 🌌</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nandakumar-S-1&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<h3 align="center">🌌 Passionate about MERN Stack | DSA | Web Designing 🌌</h3>
 
 ---
 
@@ -19,6 +23,9 @@
 💬 Ask me about **JavaScript, React, Node.js, and MongoDB**.
 
 ---
+
+
+
 
 ### 🖤 Connect With Me  
 <p align="center">
@@ -54,21 +61,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandakumar-S-1&layout=compact&theme=radical&hide_border=true" />
 </p>
 
----
+
 
 ### 🛠️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,express,mongodb,html,css,git,github,vscode" />
 </p>
 
----
 
-### 🌈 Animated Contribution Snake  
+### 🔥 GitHub Activity Graph  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nandakumar-S-1/Nandakumar-S-1/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandakumar-S-1&bg_color=0d1117&color=00bfff&line=ff0099&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
-
----
 
 <h3 align="center">✨ “Eat. Sleep. Code. Repeat.” ✨</h3>
