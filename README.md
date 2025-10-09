@@ -65,8 +65,9 @@
 
 ### 🌈 Animated Contribution Snake  
 <p align="center">
-  <img src="https://github.com/Nandakumar-S-1/Nandakumar-S-1/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Nandakumar-S-1/Nandakumar-S-1/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 ---
 
