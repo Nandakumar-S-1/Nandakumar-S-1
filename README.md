@@ -23,6 +23,33 @@
 💬 Ask me about **JavaScript, React, Node.js, and MongoDB**.
 
 ---
+### 🛠️ Tech Stack  
+<p align="center" style="display: grid; grid-template-columns: repeat(12, auto); gap: 8px; justify-content: center;">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,next,ts,redux,express,mongodb,postgres,mysql,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,aws,nginx,firebase,git,github,vscode,figma,postman,supabase,linux" />
+</p>
+
+
+
+### ⚡ GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandakumar-S-1&show_icons=true&theme=radical&hide_border=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nandakumar-S-1&theme=radical&hide_border=true" height="165">
+</p>
+
+---
+
+### 💻 Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandakumar-S-1&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+
+
+### 🔥 GitHub Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandakumar-S-1&bg_color=0d1117&color=00bfff&line=ff0099&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+</p>
 
 
 ### 🖤 Connect With Me  
@@ -43,35 +70,5 @@
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=LeetCode&logoColor=white"/>
   </a>
 </p>
-
-
-
-### ⚡ GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandakumar-S-1&show_icons=true&theme=radical&hide_border=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nandakumar-S-1&theme=radical&hide_border=true" height="165">
-</p>
-
----
-
-### 💻 Top Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandakumar-S-1&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-
-
-### 🛠️ Tech Stack  
-<p align="center" style="display: grid; grid-template-columns: repeat(12, auto); gap: 8px; justify-content: center;">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,next,ts,redux,express,mongodb,postgres,mysql,tailwind,bootstrap" />
-  <img src="https://skillicons.dev/icons?i=html,css,aws,nginx,firebase,git,github,vscode,figma,postman,supabase,linux" />
-</p>
-
-
-### 🔥 GitHub Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandakumar-S-1&bg_color=0d1117&color=00bfff&line=ff0099&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
-
 
 <h3 align="center">✨ “Eat. Sleep. Code. Repeat.” ✨</h3>
