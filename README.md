@@ -39,6 +39,7 @@
 
 ---
 
+
 ### 💻 Top Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandakumar-S-1&layout=compact&theme=radical&hide_border=true" />
@@ -61,6 +62,29 @@
 ![Reading](https://img.shields.io/badge/Reading-maroon?style=for-the-badge&logo=R)
 ![Music](https://img.shields.io/badge/Music-green?style=for-the-badge&logo=spotify)
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nandakumar-S-1&theme=radical&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies" />
+</p>
+
+### 🚀 My Featured Projects
+<p align="center">
+  <a href="https://github.com/Nandakumar-S-1/CyberCrate" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nandakumar-S-1&repo=CyberCrate&theme=radical&hide_border=true" alt="CyberCrate" style="width: 48%; margin: 5px;" />
+  </a>
+  <a href="https://github.com/Nandakumar-S-1/Learn-React-with-me" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nandakumar-S-1&repo=REDUX-login-APP&theme=radical&hide_border=true" alt="REDUX-login-APP" style="width: 48%; margin: 5px;" />
+  </a>
+  
+  <br/>
+  
+  <a href="https://github.com/Nandakumar-S-1/Learn-MERN-Stack-DSA" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nandakumar-S-1&repo=Learn-MERN-Stack-DSA&theme=radical&hide_border=true" alt="Learn-MERN-Stack-DSA" style="width: 48%; margin: 5px;" />
+  </a>
+  <a href="https://github.com/Nandakumar-S-1/TypeScriptWorkouts" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nandakumar-S-1&repo=RealTimeChatApp&theme=radical&hide_border=true" alt="RealTimeChatApp" style="width: 48%; margin: 5px;" />
+  </a>
+</p>
 
 
 ### 🖤 Connect With Me  
@@ -81,5 +105,7 @@
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=LeetCode&logoColor=white"/>
   </a>
 </p>
+
+
 
 <h3 align="center">✨ “Eat. Sleep. Code. Repeat.” ✨</h3>
