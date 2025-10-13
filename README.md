@@ -62,10 +62,6 @@
 ![Reading](https://img.shields.io/badge/Reading-maroon?style=for-the-badge&logo=R)
 ![Music](https://img.shields.io/badge/Music-green?style=for-the-badge&logo=spotify)
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nandakumar-S-1&theme=radical&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies" />
-</p>
 
 ### 🚀 My Featured Projects
 <p align="center">
