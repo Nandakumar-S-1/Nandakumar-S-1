@@ -10,7 +10,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nandakumar-S-1&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Nandakumar-S-1?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Nandakumar-S-1?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
 </p>
+
 
 <h3 align="center">🌌 Passionate about MERN Stack | DSA | Web Designing 🌌</h3>
 
@@ -43,6 +46,11 @@
 ### 💻 Top Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandakumar-S-1&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<h2>🔢 LeetCode Stats</h2>
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=NandaKumar__S&theme=dark" alt="LeetCode Stats" />
 </p>
 
 <h2>🏆 LeetCode Badges</h2>
