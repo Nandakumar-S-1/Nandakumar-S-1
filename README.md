@@ -45,6 +45,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandakumar-S-1&layout=compact&theme=radical&hide_border=true" />
 </p>
 
+<h2>🏆 LeetCode Badges</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nandakumar-S-1/Nandakumar-S-1/restore-aug30/50days.gif" width="120" />
+    <img src="https://raw.githubusercontent.com/Nandakumar-S-1/Nandakumar-S-1/restore-aug30/200days.gif" width="160" />
+  <img src="https://raw.githubusercontent.com/Nandakumar-S-1/Nandakumar-S-1/restore-aug30/100days.gif" width="120" />
+</p>
 
 
 ### 🔥 GitHub Activity Graph  
