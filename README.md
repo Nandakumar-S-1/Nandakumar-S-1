@@ -8,10 +8,12 @@
 
 ---
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nandakumar-S-1&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Nandakumar-S-1?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Nandakumar-S-1?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
+  <img src="https://img.shields.io/github/stars/Nandakumar-S-1?label=Stars&style=for-the-badge&color=blueviolet" alt="stars" />
+  <img src="https://img.shields.io/badge/Max%20Streak-30%20days-brightgreen?style=for-the-badge" alt="max-streak" />
 </p>
 
 
@@ -22,7 +24,7 @@
 ### 🧠 About Me  
 🚀 I love creating scalable full-stack web applications using the **MERN Stack**.  
 💡 Constantly exploring **React, Node.js, and system design patterns**.  
-🎧 I enjoy music while coding — it keeps the creativity flowing.  
+🎧 I enjoy music while coding it keeps the creativity flowing.  
 💬 Ask me about **JavaScript, React, Node.js, and MongoDB**.
 
 ---
@@ -48,10 +50,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandakumar-S-1&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<h2>🔢 LeetCode Stats</h2>
+<!-- <h2>🔢 LeetCode Stats</h2>
 <p align="center">
   <img src="https://leetcode-stats.vercel.app/api?username=NandaKumar__S&theme=dark" alt="LeetCode Stats" />
-</p>
+</p> -->
 
 <h2>🏆 LeetCode Badges</h2>
 
