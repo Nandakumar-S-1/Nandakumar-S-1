@@ -45,10 +45,10 @@
 ---
 
 
-### 💻 Top Languages  
+<!--### 💻 Top Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandakumar-S-1&layout=compact&theme=radical&hide_border=true" />
-</p>
+</p> -->
 
 <!-- <h2>🔢 LeetCode Stats</h2>
 <p align="center">
