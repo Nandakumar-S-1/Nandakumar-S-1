@@ -31,7 +31,7 @@
 ### 🛠️ Tech Stack  
 <p align="center" style="display: grid; grid-template-columns: repeat(12, auto); gap: 8px; justify-content: center;">
   <img src="https://skillicons.dev/icons?i=js,nodejs,ts,react,next,redux,express,mongodb,postgres,tailwind,bootstrap" />
-  <img src="https://skillicons.dev/icons?i=html,css,firebase,git,github,vscode,figma,postman," />
+  <img src="https://skillicons.dev/icons?i=html,css,firebase,redis,git,github,vscode,figma,postman" />
 </p>
 
 
@@ -99,13 +99,13 @@
 ![Auto](https://img.shields.io/badge/Auto-blue?style=for-the-badge&logo=bmw)
 ![Tech](https://img.shields.io/badge/Tech-00ff00?style=for-the-badge&logo=snapdragon)
 ![Drawing](https://img.shields.io/badge/Drawing-ffa500?style=for-the-badge&logo=starbucks)
-![Photography](https://img.shields.io/badge/Photography-ff6347?style=for-the-badge&logo=instagram)
 ![Traveling](https://img.shields.io/badge/Traveling-1e90ff?style=for-the-badge&logo=airbnb)
 ![Reading](https://img.shields.io/badge/Reading-maroon?style=for-the-badge&logo=R)
 ![Music](https://img.shields.io/badge/Music-green?style=for-the-badge&logo=spotify)
-
-### 🖤 Connect With Me  
-<p align="center">
+<!--![Photography](https://img.shields.io/badge/Photography-ff6347?style=for-the-badge&logo=instagram) -->
+###  Connect With Me  
+<!--<p align="center">-->
+  <p>
   <a href="https://www.linkedin.com/in/nandakumar-s-a0b3ba326/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
