@@ -70,6 +70,30 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandakumar-S-1&bg_color=0d1117&color=00bfff&line=ff0099&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
+### 🚀 My Featured Projects
+<p align="center">
+  <a href="https://github.com/Nandakumar-S-1/CyberCrate" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nandakumar-S-1&repo=CyberCrate&theme=radical&hide_border=true" alt="CyberCrate" style="width: 48%; margin: 5px;" />
+  </a>
+  <a href="https://github.com/Nandakumar-S-1/Learn-React-with-me" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nandakumar-S-1&repo=REDUX-login-APP&theme=radical&hide_border=true" alt="REDUX-login-APP" style="width: 48%; margin: 5px;" />
+  </a>
+  <br/>
+  <a href="https://github.com/Nandakumar-S-1/RentEase-Server" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nandakumar-S-1&repo=RentEase-Server&theme=radical&hide_border=true" alt="RealTimeChatApp" style="width: 48%; margin: 5px;" />
+  </a>
+  <a href="https://github.com/Nandakumar-S-1/RentEase-Client" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nandakumar-S-1&repo=RentEase-Client&theme=radical&hide_border=true" alt="RealTimeChatApp" style="width: 48%; margin: 5px;" />
+  </a>
+  <br/>
+  <a href="https://github.com/Nandakumar-S-1/Learn-MERN-Stack-DSA" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nandakumar-S-1&repo=Learn-MERN-Stack-DSA&theme=radical&hide_border=true" alt="Learn-MERN-Stack-DSA" style="width: 48%; margin: 5px;" />
+  </a>
+  <a href="https://github.com/Nandakumar-S-1/TypeScriptWorkouts" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nandakumar-S-1&repo=Board-Match-Game&theme=radical&hide_border=true" alt="RealTimeChatApp" style="width: 48%; margin: 5px;" />
+  </a>
+</p>
+
 ### Interests
 ![Gaming](https://img.shields.io/badge/Gaming-ff69b4?style=for-the-badge&logo=steam)
 ![Auto](https://img.shields.io/badge/Auto-blue?style=for-the-badge&logo=bmw)
@@ -79,27 +103,6 @@
 ![Traveling](https://img.shields.io/badge/Traveling-1e90ff?style=for-the-badge&logo=airbnb)
 ![Reading](https://img.shields.io/badge/Reading-maroon?style=for-the-badge&logo=R)
 ![Music](https://img.shields.io/badge/Music-green?style=for-the-badge&logo=spotify)
-
-
-### 🚀 My Featured Projects
-<p align="center">
-  <a href="https://github.com/Nandakumar-S-1/CyberCrate" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nandakumar-S-1&repo=CyberCrate&theme=radical&hide_border=true" alt="CyberCrate" style="width: 48%; margin: 5px;" />
-  </a>
-  <a href="https://github.com/Nandakumar-S-1/Learn-React-with-me" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nandakumar-S-1&repo=REDUX-login-APP&theme=radical&hide_border=true" alt="REDUX-login-APP" style="width: 48%; margin: 5px;" />
-  </a>
-  
-  <br/>
-  
-  <a href="https://github.com/Nandakumar-S-1/Learn-MERN-Stack-DSA" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nandakumar-S-1&repo=Learn-MERN-Stack-DSA&theme=radical&hide_border=true" alt="Learn-MERN-Stack-DSA" style="width: 48%; margin: 5px;" />
-  </a>
-  <a href="https://github.com/Nandakumar-S-1/TypeScriptWorkouts" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nandakumar-S-1&repo=RealTimeChatApp&theme=radical&hide_border=true" alt="RealTimeChatApp" style="width: 48%; margin: 5px;" />
-  </a>
-</p>
-
 
 ### 🖤 Connect With Me  
 <p align="center">
