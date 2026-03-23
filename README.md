@@ -17,7 +17,7 @@
 </p>
 
 
-<h3 align="center">🌌 Passionate about MERN Stack | DSA | Web Designing 🌌</h3>
+<h3 align="center">🌌 Passionate About MERN Stack | DSA | Web Designing 🌌</h3>
 
 ---
 
