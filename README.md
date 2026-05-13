@@ -45,7 +45,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![Neon DB](https://img.shields.io/badge/Neon-00E599?logo=postgresql&logoColor=black)
+<!--![Neon DB](https://img.shields.io/badge/Neon-00E599?logo=postgresql&logoColor=black)-->
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
@@ -131,14 +131,14 @@
   </a>
 </p>
 
-### Interests
+<!--### Interests
 ![Gaming](https://img.shields.io/badge/Gaming-ff69b4?style=for-the-badge&logo=steam)
 ![Auto](https://img.shields.io/badge/Auto-blue?style=for-the-badge&logo=bmw)
 ![Tech](https://img.shields.io/badge/Tech-00ff00?style=for-the-badge&logo=snapdragon)
 ![Drawing](https://img.shields.io/badge/Drawing-ffa500?style=for-the-badge&logo=starbucks)
 ![Traveling](https://img.shields.io/badge/Traveling-1e90ff?style=for-the-badge&logo=airbnb)
 ![Reading](https://img.shields.io/badge/Reading-maroon?style=for-the-badge&logo=R)
-![Music](https://img.shields.io/badge/Music-green?style=for-the-badge&logo=spotify)
+![Music](https://img.shields.io/badge/Music-green?style=for-the-badge&logo=spotify)-->
 <!--![Photography](https://img.shields.io/badge/Photography-ff6347?style=for-the-badge&logo=instagram) -->
 ###  Connect With Me  
 <!--<p align="center">-->
