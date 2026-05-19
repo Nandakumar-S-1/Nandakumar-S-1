@@ -17,16 +17,12 @@
 </p>
 
 
-<h3 align="center">🌌 Passionate About MERN Stack | DSA | Web Designing 🌌</h3>
+<h3 align="center">🌌 Passionate About MERN Stack | Web Designing 🌌</h3>
 
 ---
 
 ### 🧠 About Me  
-🚀 I love creating scalable full-stack web applications using the **MERN Stack**.  
-💡 Constantly exploring **React, Node.js, and system design patterns**.  
-🎧 I enjoy music while coding it keeps the creativity flowing.  
-💬 Ask me about **JavaScript, React, Node.js, and MongoDB**.
-
+🚀 Love creating full-stack web applications using **MERN Stack**.  
 ---
 ### 🛠️ Tech Stack  
 
@@ -106,7 +102,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandakumar-S-1&bg_color=0d1117&color=00bfff&line=ff0099&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
-
+<!--
 ### 🚀 My Featured Projects
 <p align="center">
   <a href="https://github.com/Nandakumar-S-1/CyberCrate" target="_blank">
@@ -129,7 +125,7 @@
   <a href="https://github.com/Nandakumar-S-1/TypeScriptWorkouts" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nandakumar-S-1&repo=Board-Match-Game&theme=radical&hide_border=true" alt="RealTimeChatApp" style="width: 48%; margin: 5px;" />
   </a>
-</p>
+</p>-->
 
 <!--### Interests
 ![Gaming](https://img.shields.io/badge/Gaming-ff69b4?style=for-the-badge&logo=steam)
